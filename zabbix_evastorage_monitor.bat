@@ -1,0 +1,8 @@
+cscript "C:\Program Files\zabbix_agent\eva4400nj\eva_status.vbs"
+cscript "C:\Program Files\zabbix_agent\eva4400nj\eva_performance.vbs"
+cscript "C:\Program Files\zabbix_agent\eva4400nj2\eva_status.vbs"
+cscript "C:\Program Files\zabbix_agent\eva4400nj2\eva_performance.vbs"
+cscript "C:\Program Files\zabbix_agent\eva8100yz\eva_status.vbs"
+cscript "C:\Program Files\zabbix_agent\eva8100yz\eva_performance.vbs"
+cscript "C:\Program Files\zabbix_agent\eva8100yz2\eva_status.vbs"
+cscript "C:\Program Files\zabbix_agent\eva8100yz2\eva_performance.vbs"
